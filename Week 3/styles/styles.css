@@ -1,0 +1,16 @@
+p {
+    background-color: cornsilk;
+    color: brown
+}
+
+#main-content{
+    background-color: lightblue;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+.section-text{
+    font-size: 12px;
+    color: darkblue;
+    text-align: right;
+}
