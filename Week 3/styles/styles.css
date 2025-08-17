@@ -1,16 +1,27 @@
 p {
-    background-color: cornsilk;
-    color: brown
+    font-size: 16px;
+    color: brown; 
 }
 
-#main-content{
-    background-color: lightblue;
-    font-weight: lighter;
-    text-transform: uppercase;
+#heading-one{
+    font-size: 50px;
+    color: yellow
+
 }
 
-.section-text{
-    font-size: 12px;
+.text-highlight{
+    background-color: yellowgreen;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 20px;
+    font-size: 20px;
     color: darkblue;
-    text-align: right;
+}
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: left;
+    
 }
